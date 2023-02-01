@@ -1,4 +1,4 @@
-# https-ahall23.github.io-reading-notes-
+# Class 01-
 
 <h1> <u> Growth Mindset <u> </h1>
 <h2> What is growth mindset </h2>
