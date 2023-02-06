@@ -45,17 +45,20 @@ when you have multiple paragraphs add a > on the blank spaces between the Paragr
 >> The dream was beautiful until he had to clean the pots and kettles and sweep the floor and he collected fire wood. </br> add a >> when you want to nest.
 
 **ORDERED LIST** </br>
-1. 1. 1. 1.
-2. 1. 8. 2.    = vertical 1. 2. .3. 4. list
-3. 1. 3. 3
-4. 1. 5.   1.
-           2.
+is a vertical numbered list.
+✅ 
+1. First item
+2. Second item	
+2) Second item
+
 
 **UNORDERED LISTS** </BR>
 Make a vertical list and add these symbols " -, *, +," infront of each new line
 to get bullet point.
 
 **LINKS**</br>
+[]() = [links](https://docs.github.com/en/repositories/working-with-files/mana ging-files/creating-new-files)
+
 
 
 
