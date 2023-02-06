@@ -1,16 +1,18 @@
 Markdown Notes
+
 # Heading 1
+
 ## heading 2
+
 this heading goes up to number 6
 
 **Paragraphs**
 
 Just start off writing a normal paragraph and </br> use a blank space to separate one or more lines of text.
 
-Writing this paragraph is awesome. 
+Writing this paragraph is awesome.
 
-
-### >*Line breaks*
+### >_Line breaks_
 
 This is the first  
 line.  
@@ -18,49 +20,48 @@ And this is the second line. So the key is to end a line with two or more spaces
 
 **BOLD**
 
-you will surround your text with "**" to make it bold without a space
-You can also use the same method with 👉🏽 __ enter text __
+you will surround your text with "\*\*" to make it bold without a space
+You can also use the same method with 👉🏽 ** enter text **
 
-#### *Italic*
-Insert words in the middle of this 👉🏽 * *
+#### _Italic_
+
+Insert words in the middle of this 👉🏽 \* \*
 same method 👉🏽 - -
 
-**Bold** & *Italic* </br>
-Surround your text with this *** and the text will be bold and italicized
+**Bold** & _Italic_ </br>
+Surround your text with this \*\*\* and the text will be bold and italicized
 
-##### *** enter text *** 
-Another way 👉🏽 __*   *__
+##### **_ enter text _**
 
-And another way 👉🏽 **_  _**
+Another way 👉🏽 **\* \***
+
+And another way 👉🏽 **\_ \_**
 
 BLOCKQUOTES </br>
 when you have multiple paragraphs add a > on the blank spaces between the Paragraphs. You'll add > at the begining of paragraph, the middle space and the start of next Paragraph. look 👇🏽below for outcome
->apple sauce is very special because of reasons. </br>And the reasons are awesome.
+
+> apple sauce is very special because of reasons. </br>And the reasons are awesome.
 >
->apple sauce is special because its delcious.
+> apple sauce is special because its delcious.
 
 **NESTED BLOCKQUOTES**
+
 > Danny followed himself in his dream and ended up in beautiful rooms in his castle.
 >
->> The dream was beautiful until he had to clean the pots and kettles and sweep the floor and he collected fire wood. </br> add a >> when you want to nest.
+> > The dream was beautiful until he had to clean the pots and kettles and sweep the floor and he collected fire wood. </br> add a >> when you want to nest.
 
 **ORDERED LIST** </br>
 is a vertical numbered list.
-✅ 
+✅
+
 1. First item
-2. Second item	
+2. Second item
+
 2) Second item
 
-
 **UNORDERED LISTS** </BR>
-Make a vertical list and add these symbols " -, *, +," infront of each new line
+Make a vertical list and add these symbols " -, \*, +," infront of each new line
 to get bullet point.
 
 **LINKS**</br>
 []() = [links](https://docs.github.com/en/repositories/working-with-files/mana ging-files/creating-new-files)
-
-
-
-
-
-
