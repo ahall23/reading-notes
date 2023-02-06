@@ -1,3 +1,63 @@
 Markdown Notes
+# Heading 1
+## heading 2
+this heading goes up to number 6
+
+**Paragraphs**
+
+Just start off writing a normal paragraph and </br> use a blank space to separate one or more lines of text.
+
+Writing this paragraph is awesome. 
+
+
+### >*Line breaks*
+
+This is the first  
+line.  
+And this is the second line. So the key is to end a line with two or more spaces and press return, sor space space return.
+
+**BOLD**
+
+you will surround your text with "**" to make it bold without a space
+You can also use the same method with 👉🏽 __ enter text __
+
+#### *Italic*
+Insert words in the middle of this 👉🏽 * *
+same method 👉🏽 - -
+
+**Bold** & *Italic* </br>
+Surround your text with this *** and the text will be bold and italicized
+
+##### *** enter text *** 
+Another way 👉🏽 __*   *__
+
+And another way 👉🏽 **_  _**
+
+BLOCKQUOTES </br>
+when you have multiple paragraphs add a > on the blank spaces between the Paragraphs. You'll add > at the begining of paragraph, the middle space and the start of next Paragraph. look 👇🏽below for outcome
+>apple sauce is very special because of reasons. </br>And the reasons are awesome.
+>
+>apple sauce is special because its delcious.
+
+**NESTED BLOCKQUOTES**
+> Danny followed himself in his dream and ended up in beautiful rooms in his castle.
+>
+>> The dream was beautiful until he had to clean the pots and kettles and sweep the floor and he collected fire wood. </br> add a >> when you want to nest.
+
+**ORDERED LIST** </br>
+1. 1. 1. 1.
+2. 1. 8. 2.    = vertical 1. 2. .3. 4. list
+3. 1. 3. 3
+4. 1. 5.   1.
+           2.
+
+**UNORDERED LISTS** </BR>
+Make a vertical list and add these symbols " -, *, +," infront of each new line
+to get bullet point.
+
+**LINKS**</br>
+
+
+
 
 
