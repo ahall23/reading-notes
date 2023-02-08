@@ -13,4 +13,35 @@ Git will automatically give the name "orgin" to the server.
 **Seeing Your Remotes** </br>
 git remote- can viewthe short name such as orgin of all remote handles
 
-git remote -v -view remote url's
+git remote -v - to view all remote url's
+
+$ cd example
+
+$ git remote -v
+
+remote1 https://gfdhfmh/remote1/example (fetch)
+
+remote1 https://gicfcmhc,/remote1/example (push)
+
+**Adding Remotes** </br>
+To create a new remote Git repository with a short name,
+
+git remote add shortname url
+
+Fetching
+Fetching pulls data that you don’t have from a remote project.
+
+git fetch [remote-name]
+
+**Pushing**</br>
+To **push** your changes “upstream” for sharing, use 👉🏽 git push [remote-name][branch-name]
+
+**Renaming/Removing Remotes**</br>
+git remote rename js jane </br>$ git remote</br> origin </br>
+jane
+
+**Remove** </br>
+$ git remote rm jane
+$ git remote
+
+origin
