@@ -18,7 +18,7 @@
 
 ## [Class 07](/https-ahall23.github.io-reading-notes-/201/Class07/)
 
-## [Class 08](/https-ahall23.github.io-reading-notes/201/-Class08/)
+## [Class 08](/https-ahall23.github.io-reading-notes/201/Class08/)
 
 ## [Class 09](/https-ahall23.github.io-reading-notes/201/Class09/)
 
