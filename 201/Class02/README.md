@@ -23,11 +23,11 @@
 
 3. What is representing the selector?
 
-> element.class or p element
+> h2
 
 4. Which components are the CSS declarations?
 
-> A property is paired with a value, this pairing is called a CSS declaration. CSS declarations are found within CSS Declaration Blocks.
+> brackets
 
 5. Which components are considered properties?
 
