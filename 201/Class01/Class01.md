@@ -72,12 +72,10 @@ semantics
 
    > Semantic naming mirrors proper custom element/component naming and Search engines will consider its contents as important keywords to influence the page's search rankings
 
-   1.Describe 2 things that require JavaScript in the Browser?
-
-   > adding interactive behavior to the webpage and running code in execution environments.
+   1.Describe 2 things that require JavaScript in the Browser? 
+   > adding interactive behavior to the webpage and running code in execution environments.  
 
    2.How can you add JavaScript to an HTML document?
-
    > You can use the value for the src attribute and it should be the path to your JavaScript file.
 
 object- can be anything. Everything in JavaScript is an object and can be stored in a variable. Keep this in mind as you learn. let myVariable = document.querySelector('h1');
