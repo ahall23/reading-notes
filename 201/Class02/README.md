@@ -6,7 +6,7 @@
    > It makes your code easier to understand and it makes the source code eaiser for developers to read.
 2. How many levels of headings are there in HTML?
    > There are 6 Headings in total. You cannot go over 6 headings
-3. What are some uses for the <sup> and <sub> elements?
+3. What are some uses for the < sup > and < sub > elements?
    > Dates, chemical formulae, and mathematical equations so they have the correct meaning.
 4. When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
    > A title attribute
