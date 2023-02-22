@@ -38,7 +38,19 @@
 > Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 
 > List five shorthand operators for assignment in javascript and describe what they do.
+
+Assignment x = f() x = f()
+Addition assignment x += f() x = x + f()
+Subtraction assignment x += f() x = x + f()
+Multiplication assignment x = f() x = x / f()
+Exponentiation assignment x **= f() x = x ** f()
+
 > Read the code below and evaluate the last expression and explain what the result would be and why.
 
 > Describe a real world example of when a conditional statement should be used in a JavaScript program.
+>
+> > When You are doing your taxes and you type in the wrong information. It will show a pop up meassage stating error.
+
 > Give an example of when a Loop is useful in JavaScript.
+>
+> > A ATM machine. It does the same process over and over again.
