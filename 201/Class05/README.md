@@ -14,10 +14,10 @@ Describe the difference between foreground and background colors of an HTML elem
 
 Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character? **I would go into CSS and add a background color to the body and maybe add color to the borders of the < h1> tags**
 
-What should you consider when choosing fonts for an HTML document?
+What should you consider when choosing fonts for an HTML document? **You should consider web safe fonts. What font can you use on your computer? **
 
 What do font-size, font-weight, and font-style do to HTML text elements? **It changes the size of the text, changes how bold or thin you want the text and changes style of the text.**
 
-Describe two ways you could add spacing around the characters displayed in an h1 element.
+Describe two ways you could add spacing around the characters displayed in an h1 element. **You could do letter-spacing or word-spacing in CSS**
 
 ## Things I want to know more about
