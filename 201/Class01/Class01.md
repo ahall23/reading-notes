@@ -118,5 +118,3 @@ and HTML Apps." />
 <meta property="og:title" content="Mozilla Developer Network" /> -->
 
 [HTML meta-data](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)
-
-[CSS width Gurll👀](https://developer.mozilla.org/en-US/docs/Web/CSS/width)

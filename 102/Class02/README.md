@@ -17,3 +17,5 @@ For beginers its best to have no text editor because you would have to find your
 
 > > command line is on terminal. a text based on interface . you are able to command and get siminlar feed back as a text. </br>
 > > Echo - pwd tells you where your current work is at
+
+[]
