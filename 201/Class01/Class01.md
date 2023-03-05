@@ -72,10 +72,37 @@ semantics
 
    > Semantic naming mirrors proper custom element/component naming and Search engines will consider its contents as important keywords to influence the page's search rankings
 
-   1.Describe 2 things that require JavaScript in the Browser? 
-   > adding interactive behavior to the webpage and running code in execution environments.  
+   1.Describe 2 things that require JavaScript in the Browser?
+
+   > adding interactive behavior to the webpage and running code in execution environments.
 
    2.How can you add JavaScript to an HTML document?
+
    > You can use the value for the src attribute and it should be the path to your JavaScript file.
 
 object- can be anything. Everything in JavaScript is an object and can be stored in a variable. Keep this in mind as you learn. let myVariable = document.querySelector('h1');
+
+<!-- Add the following function to set the personalized greeting. This won't do anything yet, but this will change soon.
+
+function setUserName() {
+  const myName = prompt("Please enter your name.");
+  localStorage.setItem("name", myName);
+  myHeading.textContent = `Mozilla is cool, ${myName}`;
+}
+
+The setUserName() function contains a prompt() function, which displays a dialog box, similar to alert(). This prompt() function does more than alert(), asking the user to enter data, and storing it in a variable after the user clicks OK. In this case, we are asking the user to enter a name. Next, the code calls on an API localStorage, which allows us to store data in the browser and retrieve it later. We use localStorage's setItem() function to create and store a data item called 'name', setting its value to the myName variable which contains the user's entry for the name. Finally, we set the textContent of the heading to a string, plus the user's newly stored name.
+Add the following condition block. We could call this initialization code, as it structures the app when it first loads.
+if (!localStorage.getItem("name")) {
+  setUserName();
+} else {
+  const storedName = localStorage.getItem("name");
+  myHeading.textContent = `Mozilla is cool, ${storedName}`;
+}
+Copy to Clipboard
+This first line of this block uses the negation operator (logical NOT, represented by the !) to check whether the name data exists. If not, the setUserName() function runs to create it. If it exists (that is, the user set a user name during a previous visit), we retrieve the stored name using getItem() and set the textContent of the heading to a string, plus the user's name, as we did inside setUserName().
+Put this onclick event handler (below) on the button. When clicked, setUserName() runs. This allows the user to enter a different name by pressing the button.
+myButton.onclick = () => {
+  setUserName();
+}; -->
+
+[JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
