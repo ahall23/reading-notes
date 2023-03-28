@@ -9,5 +9,6 @@ How can using certain properties of flexbox negatively impact accessibility?
 
 Read up to “Flex-Flow Shorthand”
 
-What are some advantages of using flexbox over float?
-How does this topic connect with your long term goals?
+**What are some advantages of using flexbox over float?** It's easy and predictable, Supports vertical alignment, supports wrapping ...
+
+**How does this topic connect with your long term goals?**
